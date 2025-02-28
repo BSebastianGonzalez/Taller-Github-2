@@ -1,1 +1,1 @@
-Este es un archivo de prueba modificado por Usuario 2
+Este archivo fue modificado por el usuario 1 y el usuario 2
